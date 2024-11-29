@@ -1,0 +1,15 @@
+[
+  {
+    "formType": "Disability Form",
+    "description": "A form for requesting accommodations or support for disabilities."
+  },
+  {
+    "formType": "Financial Form",
+    "description": "A form for financial aid or assistance requests."
+  },
+  {
+    "formType": "Death Form",
+    "description": "A form for processing claims related to death benefits."
+  }
+
+]

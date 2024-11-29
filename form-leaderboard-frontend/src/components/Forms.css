@@ -1,0 +1,55 @@
+/* .cont-label {
+    display: flex;
+    justify-items: flex-start;
+    border-radius: 10px;
+    border-color: #08415C;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+    color: #000;
+    background-color: white;
+    padding: 10px;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.cont-label input{
+    margin-right: 15px;
+}
+
+.btn-cont {
+    margin-top: 20px;
+}
+
+.cont-leaderboard {
+    margin-bottom: 15px;
+}
+
+.cont-leaderboard ul {
+    text-align: left;
+    list-style-type: decimal;
+}
+
+@media (max-width: 768px) {
+.cont-label {
+    display: flex;
+    justify-items: flex-start;
+    border-radius: 10px;
+    border-color: #08415C;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+    color: #000;
+    background-color: white;
+    padding: 10px;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+  }
+  
+  @media (max-width: 480px) {
+    .cont-label {
+        background-color: white;
+        box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+        color: #000;
+        background-color: white;
+        min-width: 400px;
+    }
+  } */
